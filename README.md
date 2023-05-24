@@ -8,7 +8,7 @@ In addition to the functional aspects, I aimed to explore the creative side by d
 
 ## How to run the program:
 
-Make sure you have node js downloaded: https://nodejs.org/en/
+Make sure you have NodeJS [downloaded](https://nodejs.org/en/)
 Then run the command:
 
 ### `npm start`
@@ -33,7 +33,7 @@ Before delving into the different components of the program, it's essential to u
 
 The program also relies on the OpenWeather API, which provides accurate data about specific locations worldwide through latitude and longitude coordinates. More information about the OpenWeather API can be found at this [link](https://openweathermap.org/).
 
-Additionally, I incorporate free icons from IconScout to enhance the visual elements of the application. Information about these icons can be found [here](https://iconscout.com/unicons), with further details available on their GitHub [repository](https://github.com/Iconscout/unicons). Instead of manually downloading individual icons and storing them in a folder, I can conveniently import the required icons directly from the IconScout website.
+Additionally, I incorporate free icons from IconScout to enhance the visual elements of the application. Information about these icons can be found [here](https://iconscout.com/unicons), with further details available on their [Github repository](https://github.com/Iconscout/unicons). Instead of manually downloading individual icons and storing them in a folder, I can conveniently import the required icons directly from the IconScout website.
 
 ### `App.js`
 
