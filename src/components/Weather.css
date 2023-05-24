@@ -1,0 +1,67 @@
+.Weather {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+
+.Information {
+    background-color: rgba(255, 255, 255, 0.3);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.Show {
+    width: 4rem;
+}
+
+.Degrees {
+    display: flex;
+    font-size: 5rem;
+    line-height: 1;
+    color: rgb(255 255 255);
+}
+
+.Rows {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 0.5rem;
+    justify-content: center;
+}
+
+.Type {
+    display: flex;
+    font-weight: 300;
+    align-items: center;
+    font-size: 0.875rem;
+    line-height: 1.25rem; 
+    color: rgb(255 255 255);
+}
+
+.boldInfo {
+    font-weight: 500;
+    margin-left: 0.25rem;
+}
+
+.infoBar {
+    background-color: rgba(255, 255, 255, 0.3);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-weight: 200;
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    color: rgb(255 255 255);
+}
+
+.infoBegin {
+    font-weight: 100;
+    margin-left: 0.25rem;
+}

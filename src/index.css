@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  background-image: url(https://img.freepik.com/free-vector/flat-design-mountain-landscape_23-2149172160.jpg?w=1380&t=st=1671422001~exp=1671422601~hmac=93c6a671bf1506f858b11afb22e62f716b46f43cac40da3362f8de09e1ad7afd);
+  
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

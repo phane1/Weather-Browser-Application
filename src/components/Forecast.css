@@ -1,0 +1,51 @@
+.Forecast {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 1.5rem;
+}
+
+.Header {
+    color: rgb(255 255 255);
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.Line {
+    margin-top: 0.5rem; 
+    margin-bottom: 0.5rem;
+}
+
+.weatherItems {
+    background-color: rgba(255, 255, 255, 0.3);
+    box-shadow: 3px 0px 8px silver;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(255 255 255);
+}
+
+.weatherColumns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Show {
+    width: 4rem; 
+}
+
+.Degrees {
+    font-weight: 500;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    margin-left: 1.5rem;
+}
+
+.Time {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 300;
+}

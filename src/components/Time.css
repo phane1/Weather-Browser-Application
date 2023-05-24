@@ -1,0 +1,39 @@
+.time {
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    flex: 1 1 auto;
+}
+
+.Date {
+    color: rgb(255 255 255);
+    font-size: 1.25rem; 
+    line-height: 1.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 200;
+}
+
+.Location {
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+    flex: 1 1 auto;
+}
+
+.City {
+    color: rgb(255 255 255);
+    font-size: 3rem; 
+    line-height: 1.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    font-weight: 400;
+}
